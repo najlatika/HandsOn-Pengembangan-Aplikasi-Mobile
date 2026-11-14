@@ -7,4 +7,4 @@ class AndroidPlatform : Platform {
         "Android ${Build.VERSION.SDK_INT}"
 }
 
-actual fun getPlatform(): Platform = AndroidPlatform()
+actual fuD:\Android_Studio\HandsOn
